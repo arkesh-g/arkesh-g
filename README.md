@@ -1,1 +1,1 @@
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31rkyurfddptcurlliwkqwil5xt4&count=8&footer=wave&bg_color=2e2e2e&text_color=b8c8d8&artist_color=7a93a3&meta_color=be907f&accent_color=d2aa98&logo_color=efe1bf)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31rkyurfddptcurlliwkqwil5xt4&count=6&duration=1&album=1&footer=wave&bg_color=2e2e2e&text_color=c0cede&artist_color=86a2b8&meta_color=acbfd2&accent_color=c0cede&logo_color=c0cede)
