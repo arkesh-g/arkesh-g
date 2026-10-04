@@ -1,6 +1,5 @@
-<div>
-  <p align="center">me and her fr
+<p align="center">
+  <img src="https://cdn.phototourl.com/member/2026-10-04-1b0a1fc6-9ab9-4111-8cbb-5ed20198cc72.jpg" width="200" alt="sticker"</p>
 
-  ![](https://cdn.phototourl.com/member/2026-10-04-4ca0a184-e7ce-4301-9266-9a84ebaca50d.webp)
-    
-</div>
+<p align="center">
+  <sub>no honestly this is just another alt acc aha blblbplblbpblehh :P</sub></p>
