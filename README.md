@@ -1,1 +1,6 @@
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31rkyurfddptcurlliwkqwil5xt4&count=6&album=1&footer=wave&bg_color=2e2e2e&text_color=c0cede&artist_color=86a2b8&meta_color=acbfd2&accent_color=c0cede&logo_color=c0cede)
+<div>
+  <p align="center">me and her fr
+
+  ![](https://cdn.phototourl.com/member/2026-10-04-4ca0a184-e7ce-4301-9266-9a84ebaca50d.webp)
+    
+</div>
